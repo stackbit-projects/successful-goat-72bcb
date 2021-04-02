@@ -7,10 +7,7 @@ sections:
     content: >
       i create multimedia art pieces using whatever is inspiring me at the
       moment. born in the netherlands and living somewhere at some point
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
     title: 'hi, i''m leonard jansen, i live to create'
   - section_id: latest-projects
     type: section_portfolio
