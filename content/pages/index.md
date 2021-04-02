@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      i create multimedia art pieces using whatever is inspiring me at the
+      moment. born in the netherlands and living somewhere at some point
     actions:
       - label: Let's talk
         url: /contact
