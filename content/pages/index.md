@@ -11,7 +11,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-    title: 'Hi, I''m LEO'
+    title: 'hi, i''m leonard jansen, i live to create'
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
